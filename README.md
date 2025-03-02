@@ -19,14 +19,12 @@ DeepSeek provides an alternative to ChatGPT for Unity developers. Here's a quick
 ### Step 1: Login to your DeepSeek account and copy your secret key
 To get started you will first need to fetch your DeepSeek API key, which can be found the DeepSeek Platform under `Get API Key` (or through [this direct link](https://platform.deepseek.com/api_keys)). Here, you can create a new secret key and copy the value (you will need to your secret key for the next step).
 
-![](/Images/ScreenShot1.JPG)
+![](/Images/Screenshot1.JPG)
 
 ### Step 2: Open the Unity Editor, configure the package, and start using DeepSeek
 Inside the package, you will find an `Example` Scene. Inside this scene, there is a game object with a `UnityAndDeepSeek.cs` script attach to it. Add your API Secret Key inside the `API Key` field. And, you can start using DeepSeek.
 
-![](/Images/ScreenShot2.JPG)
-
-![](/Images/ScreenShot3.JPG)
+![](/Images/Screenshot3.JPG)
 
 
 # Functions
@@ -38,5 +36,8 @@ Unity connects with [DeepSeek API](https://api.deepseek.com/chat/completions).
 
 # Usage
 The unity package was made to directly use the function with a User Interface. Therefore, the best way to interact with it, it is through the `Example` Scene. After hitting on play, the `Example` Scene grabs the text you put inside the Input field, and sends it to the DeepSeek API when hitting the button "Send Message". 
+
+![](/Images/Screenshot2.JPG)
+
 
 > Note that DeepSeek is a paid API, I recommend using [Gemini](https://github.com/UnityGameStudio/Gemini-Unity-Package) instead, which is free upon certain amount of requests.
