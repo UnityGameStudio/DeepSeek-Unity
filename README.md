@@ -37,6 +37,8 @@ Unity connects with [DeepSeek API](https://api.deepseek.com/chat/completions).
 # Usage
 The unity package was made to directly use the function with a User Interface. Therefore, the best way to interact with it, it is through the `Example` Scene. After hitting on play, the `Example` Scene grabs the text you put inside the Input field, and sends it to the DeepSeek API when hitting the button "Send Message". 
 
+You must purchase credits in your DeepSeek account to use the API. Nevertheless, they might be cheaper than ChatGPT API. 
+
 ![](/Images/Screenshot3.JPG)
 
 
