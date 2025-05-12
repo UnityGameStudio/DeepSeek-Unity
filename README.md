@@ -13,7 +13,7 @@ Once you've downloaded the Unity package, you can import the `Example` scene ins
 
 DeepSeek provides an alternative to ChatGPT for Unity developers. Here's a quick guide to setting up DeepSeek:
 
-- Setup Guide: [Watch the YouTube tutorial](https://www.youtube.com/watch?v=Z6MFqIzOHK0&ab_channel=UnityGameStudio)
+- Setup Guide: [Watch the YouTube tutorial](https://www.youtube.com/watch?v=wIMm7RRXCiY&feature=youtu.be)
 
 
 ### Step 1: Login to your DeepSeek account and copy your secret key
